@@ -1,6 +1,6 @@
 
 <!----------------------------------- Banner - GeekyShows ------------------------------------>
-[![MasterHead](https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png)](#)
+[![MasterHead](link)](#)
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
