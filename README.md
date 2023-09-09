@@ -1,6 +1,6 @@
 
 <!----------------------------------- Banner - GeekyShows ------------------------------------>
-[![MasterHead](link)](#)
+[![MasterHead]([link](https://www.canva.com/design/DAFjLGcwD9k/g08AFL9PHB8ezT253GXwZQ/view?utm_content=DAFjLGcwD9k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))](#)
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
