@@ -6,10 +6,10 @@
 <div>
   <img align="right" width="150" alt="Coding" src="---Photo-link---">
   <a href="https://github.com/rajibsandy?tab=followers">
-     <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
+     <img align="right" src="https://img.shields.io/github/followers/rajibsandy?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, I'm Md Najmul Hoda </h3>
-  <p>I am Full Stack Web & Devops  Developer. 
+  <p>I am Full Stack Web & Devops Developer. 
     </a>
   </P> 
 </div>
