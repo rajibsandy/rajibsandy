@@ -5,7 +5,7 @@
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <img align="right" width="150" alt="Coding" src="---Photo-link---">
-  <a href="https://github.com/geekyshow1?tab=followers">
+  <a href="https://github.com/rajibsandy?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, I'm Md Najmul Hoda </h3>
