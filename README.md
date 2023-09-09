@@ -1,10 +1,12 @@
 
 <!----------------------------------- Banner - GeekyShows ------------------------------------>
-[![MasterHead]([link](https://www.canva.com/design/DAFjLGcwD9k/g08AFL9PHB8ezT253GXwZQ/view?utm_content=DAFjLGcwD9k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))](#)
+
+[![MasterHead](https://raw.githubusercontent.com/rajibsandy/rajibsandy/main/01-slide-1.png)](#)
+
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-  <img align="right" width="150" alt="Coding" src="---Photo-link---">
+  <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/rajibsandy/rajibsandy/main/MonitorARMS-DecorationBD%20400x400.png">
   <a href="https://github.com/rajibsandy?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/rajibsandy?label=Followers&style=social" alt="followers-count">
   </a>
