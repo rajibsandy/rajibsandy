@@ -70,6 +70,7 @@
 </p>
 <h3>Devops</h3>
 <p>
+    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/sass%20(2)%20(1).png" alt="Cloud" />
     <img src="https://github.com/rajibsandy/rajibsandy/blob/main/CloudCumpu%20(1)%20(1).png" alt="Cloud" />
     <img src="https://github.com/rajibsandy/rajibsandy/blob/main/docker%20(2).png" alt="docker" />
     <img src="https://github.com/rajibsandy/rajibsandy/blob/main/docker%20(1)%20(1).png" alt="k8s" />
