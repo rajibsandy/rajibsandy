@@ -43,6 +43,8 @@
 <h3>Backend Framework and API </h3>
 <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
+    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/Django%20REST%20framework%20(2)%20(3).png" alt="DRF" />
+    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/Django%20REST%20framework%20(1)%20(1).png" alt="django" />
 </p>
 
 
