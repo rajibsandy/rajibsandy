@@ -81,11 +81,11 @@
 
 <h3>Other</h3>
 <p>
-    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="aws" />
-    <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="digitalocean" />
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
+    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/10%20(1).png" alt="github" />
+    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/11%20(1).png" alt="aws" />
+    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/12%20(1).png" alt="digitalocean" />
     <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" />
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
     
 
 </p>
