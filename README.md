@@ -10,7 +10,7 @@
   <a href="https://github.com/rajibsandy?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/rajibsandy?label=Followers&style=social" alt="followers-count">
   </a>
-  <h2>Hi, I'm Md Najmul Hoda. In short  Rajib </h2>
+  <h3>Hi, I'm Md Najmul Hoda. In short  Rajib </h3>
   <p>I am Full Stack Web & Devops Expert In short, my specialty is quick learning . 
     </a>
   </P> 
