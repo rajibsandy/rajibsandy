@@ -98,7 +98,7 @@
 <h2><i>Let's Connect</i></h2>
 <p align="left" >
    <a href="https://twitter.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geekyshow1" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irenicraj" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mnhoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irenicraj" height="30" width="40" /></a>
   <a href="https://www.facebook.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="geekyshow" height="30" width="40" /></a>
   <a href="https://instagram.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geekyshow1" height="30" width="40" /></a>
   <a href="https://www.youtube.com/user/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="geekyshow1" height="30" width="40" /></a>
