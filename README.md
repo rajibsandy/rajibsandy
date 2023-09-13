@@ -1,7 +1,7 @@
 
 <!----------------------------------- Banner - GeekyShows ------------------------------------>
 
-[![MasterHead](https://raw.githubusercontent.com/rajibsandy/rajibsandy/main/01-slide-1%20(1).png)](#)
+[![MasterHead](https://github.com/rajibsandy/rajibsandy/blob/main/01-slide-1%20(2).png)](#)
 
 
 <!----------------------------------- About Section ------------------------------------>
